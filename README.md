@@ -22,4 +22,4 @@ main(String[] args)
 This is the entry point of the program where the user is prompted to input the number of subjects and the marks for each subject.
 The marks are validated to ensure they are between 0 and 100.
 The total marks are accumulated, and the average percentage is calculated.
-The grade is determined using the calculateGrade method and then displayed to the user.
+The grade is determined using the calculateGrade method and then displayed to the uses.
